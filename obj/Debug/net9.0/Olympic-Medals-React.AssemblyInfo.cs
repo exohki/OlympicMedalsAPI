@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Olympic-Medals-React")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fbc7d8fb4183f44714b178b0ab2821b3c02580c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Olympic-Medals-React")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Olympic-Medals-React")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
