@@ -1,0 +1,6 @@
+@Olympic_Medals_React_HostAddress = http://localhost:5101
+
+GET {{Olympic_Medals_React_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

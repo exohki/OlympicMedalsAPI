@@ -1,0 +1,8 @@
+/Users/emileemontijo/OlympicMedalsAPI/obj/Debug/net9.0/Olympic-Medals-React.csproj.AssemblyReference.cache
+/Users/emileemontijo/OlympicMedalsAPI/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/emileemontijo/OlympicMedalsAPI/obj/Debug/net9.0/Olympic-Medals-React.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emileemontijo/OlympicMedalsAPI/obj/Debug/net9.0/Olympic-Medals-React.AssemblyInfoInputs.cache
+/Users/emileemontijo/OlympicMedalsAPI/obj/Debug/net9.0/Olympic-Medals-React.AssemblyInfo.cs
+/Users/emileemontijo/OlympicMedalsAPI/obj/Debug/net9.0/Olympic-Medals-React.csproj.CoreCompileInputs.cache
+/Users/emileemontijo/OlympicMedalsAPI/obj/Debug/net9.0/Olympic-Medals-React.MvcApplicationPartsAssemblyInfo.cs
+/Users/emileemontijo/OlympicMedalsAPI/obj/Debug/net9.0/Olympic-Medals-React.MvcApplicationPartsAssemblyInfo.cache
